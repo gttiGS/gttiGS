@@ -27,7 +27,7 @@ Especialista em Testes de Software com experiência comprovada em qualidade de s
 ### Automação de Testes
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://www.cypress.io/)
-![Playwright Tests](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/actions/workflows/playwright.yml/badge.svg)
+[![Playwright](https://img.shields.io/badge/Playwright-45BA63?style=for-the-badge&logo=playwright&logoColor=white)](https://playwright.dev)
 
 ### Testes de API
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
